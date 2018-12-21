@@ -70,6 +70,14 @@ const foo = () => {
 
 > You'll have to check the source for this one 😉
 
+## Use emoji syntax
+
+:+1: :smile: :trophy: :100: :rocket:
+
+```
+:+1: :smile: :trophy: :100: :rocket:
+```
+
 ## Add a badge
 
 ![100% Awesome](https://img.shields.io/badge/Awesome-100%25-brightgreen.svg)
@@ -80,21 +88,6 @@ const foo = () => {
 
 Build your own at [shields.io](https://shields.io/#/)
 
-## Align Examples to List Items
-
-- Item one
-  ```
-  Aligned Example
-  ```
-- Item two 
-```
-Not aligned (yuck)
-```
-
 ## Things You Can't Do
 
-Execute JavaScript
-
-<button onclick="window.alert('hello')">Click me</button>
-
-<a>Click me</a>
+- Execute JavaScript (via `<script>` tags or otherwise)
