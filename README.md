@@ -35,6 +35,8 @@ foo.bar = function() {
 }
 ```
 
+> All supported languages/abbreviations for syntax highlighting in Linguist's [languages.yml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) 
+
 ## Create a TODO with a Checklist
 
 - [X] Do a thing
@@ -91,6 +93,16 @@ const foo = () => {
 ```
 
 Build your own at [shields.io](https://shields.io/#/)
+
+## Ignore Markdown Formatting
+
+This is *so cool*  
+This is \*so cool\*
+
+```
+This is *so cool*
+This is \*so cool\*
+```
 
 ## Things You Can't Do
 
