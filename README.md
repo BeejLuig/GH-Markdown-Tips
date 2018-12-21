@@ -29,7 +29,11 @@ Markdown tips and tricks specific to GH READMEs and Issues
 ## Add Syntax Highlighting to Code Examples
 
 ```js
-const v
+const foo = {};
+foo.bar = function() {
+ return true;
+}
+```
 
 ## Create a TODO with a Checklist
 
