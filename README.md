@@ -47,6 +47,14 @@ foo.bar = function() {
 [ ] - Do another thing
 ```
 
+## Link to Issues/Pull Requests
+
+Just reference an issue or PR number in the comment of an issue, PR, or commit!
+
+- Example: **Fixes issue #1**
+
+> You can also `@`-mention a user or org, and use a full or shortened commit SHA-1 hash to automatically link to a commit
+
 ## Make a dropdown
 
 <details>
